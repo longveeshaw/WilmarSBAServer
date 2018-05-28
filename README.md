@@ -1,3 +1,7 @@
+# Wilmar SBA Server
+
+[![Build Status](https://travis-ci.org/yingw/WilmarSBAServer.svg?branch=master)](https://travis-ci.org/yingw/WilmarSBAServer)
+
 # Actuator
 
 ```xml
